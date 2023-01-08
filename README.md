@@ -1,0 +1,3 @@
+# hackerRankInAStringSolution
+Algorithims
+Strings
